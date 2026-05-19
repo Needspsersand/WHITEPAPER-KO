@@ -1,8 +1,5 @@
 # TomaTok 백서
 
-**The Global Web3 Game Aggregator Platform**
-
----
 
 ## 1. 법적 디스클레이머 (Legal Disclaimer)
 
