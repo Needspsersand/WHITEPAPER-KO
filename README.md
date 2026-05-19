@@ -424,9 +424,9 @@ TomaTok은 글로벌 고가용성을 위해 설계되었으며, 기술 인프라
 
 ### 다운로드 자료
 
-| 자료 | 한국어 | English |
+| 자료 | 영어 | 한국어 |
 | --- | --- | --- |
-| 게임 등록 신청서 | [PDF](https://app.gitbook.com/o/QrYNBesNnoPxnC03XosR/s/FxNcZaxykAXmxpI5YGQ0/game-submission-form-ko) | [PDF](https://app.gitbook.com/o/QrYNBesNnoPxnC03XosR/s/FxNcZaxykAXmxpI5YGQ0/game-submission-form-en) |
+| Game Submission Form | [게임등록양식(영어)](https://github.com/user-attachments/files/28001077/TomaTok_Game_Submission_Form_EN.pdf)|[게임등록양식(국문)](https://github.com/user-attachments/files/28000709/TomaTok_Game_Submission_Form.pdf)|
 
 ### 연락처
 
